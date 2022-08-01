@@ -27,4 +27,4 @@ https://powerful-oasis-82585.herokuapp.com
 
 ## Webpage Snapshot:
 
-![](https://github.com/spbhanda/NoteTaker/blob/main/images/NoteTaker_page)
+![](https://github.com/spbhanda/NoteTaker/blob/main/images/NoteTaker_page.JPG)
